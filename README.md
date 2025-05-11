@@ -92,6 +92,7 @@ The bot provides color-coded console output with different log levels:
 ## Credits:
 
 - Developer: [@cryptodai3](https://github.com/cryptodai3)
+
 Follow me for updates:
 - Twitter: [@cryptodai3](https://x.com/cryptodai3)
 - Telegram: [@cryptodai3](https://t.me/cryptodai3)

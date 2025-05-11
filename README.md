@@ -22,7 +22,7 @@ Automated bot for interacting with the Brilliance Global platform, handling logi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vikitoshi/Brilliance-Auto-Bot.git
+git clone https://github.com/cryptodai3/Brilliance-Auto-Bot.git
 cd Brilliance-Auto-Bot
 ```
 
@@ -88,6 +88,13 @@ The bot provides color-coded console output with different log levels:
 - User agents are rotated automatically
 - Social media details are generated randomly for airdrop participation
 - Mining operations are automatically tracked with countdown timers
+
+## Credits:
+Developer: @cryptodai3
+Follow me for updates:
+Twitter: @cryptodai3
+Telegram: @cryptodai3
+YouTube: CryptoDai3
 
 ## Disclaimer
 

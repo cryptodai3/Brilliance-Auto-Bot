@@ -90,11 +90,11 @@ The bot provides color-coded console output with different log levels:
 - Mining operations are automatically tracked with countdown timers
 
 ## Credits:
-Developer: @cryptodai3
+- Developer: [@cryptodai3]([url](https://github.com/cryptodai3))
 Follow me for updates:
-Twitter: @cryptodai3
-Telegram: @cryptodai3
-YouTube: CryptoDai3
+- Twitter: [@cryptodai3]([url](https://x.com/cryptodai3))
+- Telegram: [@cryptodai3]([url](https://t.me/cryptodai3))
+- YouTube: [CryptoDai3]([url](https://www.youtube.com/channel/UCbMknjj8KlrCKmes9PYP7dQ))
 
 ## Disclaimer
 

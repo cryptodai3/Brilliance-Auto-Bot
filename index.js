@@ -24,7 +24,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`  Brilliance Auto Bot - Airdrop Insiders `);
+    console.log(`  Brilliance Auto Bot - cryptodai3 `);
     console.log(`---------------------------------------------${colors.reset}\n`);
   },
 };
